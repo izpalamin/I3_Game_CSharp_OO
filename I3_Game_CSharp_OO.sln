@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.36105.23 d17.13
+VisualStudioVersion = 17.13.36105.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Namespace", "Demo_Namespace\Demo_Namespace.csproj", "{9D8BE1CF-E4D6-42E8-8A26-02DA160C87FF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Class", "Demo_Class\Demo_Class.csproj", "{503336A2-9D6D-4046-B1E3-D3E4BBE8E0D9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Static", "Demo_Static\Demo_Static.csproj", "{5B121CD5-7144-4AB2-835D-ED0FCC24A2CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_Monopoly", "Exo_1\Exo_Monopoly.csproj", "{81DEBACC-EE26-49A4-9AB6-8004EEA19313}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demos", "Demos", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exos", "Exos", "{93372668-5BE3-4477-9DB3-2F1AAB5F279A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,9 +33,19 @@ Global
 		{5B121CD5-7144-4AB2-835D-ED0FCC24A2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B121CD5-7144-4AB2-835D-ED0FCC24A2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B121CD5-7144-4AB2-835D-ED0FCC24A2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81DEBACC-EE26-49A4-9AB6-8004EEA19313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DEBACC-EE26-49A4-9AB6-8004EEA19313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DEBACC-EE26-49A4-9AB6-8004EEA19313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DEBACC-EE26-49A4-9AB6-8004EEA19313}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9D8BE1CF-E4D6-42E8-8A26-02DA160C87FF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{503336A2-9D6D-4046-B1E3-D3E4BBE8E0D9} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{5B121CD5-7144-4AB2-835D-ED0FCC24A2CD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{81DEBACC-EE26-49A4-9AB6-8004EEA19313} = {93372668-5BE3-4477-9DB3-2F1AAB5F279A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {923B9646-3AE7-465C-95F6-C64CAF070D96}
