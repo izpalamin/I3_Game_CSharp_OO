@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demos", "Demos", "{02EA681E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exos", "Exos", "{93372668-5BE3-4477-9DB3-2F1AAB5F279A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Encapsulation", "Demo_Encapsulation\Demo_Encapsulation.csproj", "{5E66F01C-B27A-4745-93C5-BD5BC9160D82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{81DEBACC-EE26-49A4-9AB6-8004EEA19313}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81DEBACC-EE26-49A4-9AB6-8004EEA19313}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81DEBACC-EE26-49A4-9AB6-8004EEA19313}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E66F01C-B27A-4745-93C5-BD5BC9160D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E66F01C-B27A-4745-93C5-BD5BC9160D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E66F01C-B27A-4745-93C5-BD5BC9160D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E66F01C-B27A-4745-93C5-BD5BC9160D82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +52,7 @@ Global
 		{503336A2-9D6D-4046-B1E3-D3E4BBE8E0D9} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{5B121CD5-7144-4AB2-835D-ED0FCC24A2CD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{81DEBACC-EE26-49A4-9AB6-8004EEA19313} = {93372668-5BE3-4477-9DB3-2F1AAB5F279A}
+		{5E66F01C-B27A-4745-93C5-BD5BC9160D82} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {923B9646-3AE7-465C-95F6-C64CAF070D96}
