@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exos", "Exos", "{93372668-5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Encapsulation", "Demo_Encapsulation\Demo_Encapsulation.csproj", "{5E66F01C-B27A-4745-93C5-BD5BC9160D82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Polymorphisme", "Demo_Polymorphisme\Demo_Polymorphisme.csproj", "{8C776486-0F8F-4B9A-ADE3-1DDEFF092D4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{5E66F01C-B27A-4745-93C5-BD5BC9160D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E66F01C-B27A-4745-93C5-BD5BC9160D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E66F01C-B27A-4745-93C5-BD5BC9160D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C776486-0F8F-4B9A-ADE3-1DDEFF092D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C776486-0F8F-4B9A-ADE3-1DDEFF092D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C776486-0F8F-4B9A-ADE3-1DDEFF092D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C776486-0F8F-4B9A-ADE3-1DDEFF092D4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +59,7 @@ Global
 		{5B121CD5-7144-4AB2-835D-ED0FCC24A2CD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{81DEBACC-EE26-49A4-9AB6-8004EEA19313} = {93372668-5BE3-4477-9DB3-2F1AAB5F279A}
 		{5E66F01C-B27A-4745-93C5-BD5BC9160D82} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{8C776486-0F8F-4B9A-ADE3-1DDEFF092D4B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {923B9646-3AE7-465C-95F6-C64CAF070D96}

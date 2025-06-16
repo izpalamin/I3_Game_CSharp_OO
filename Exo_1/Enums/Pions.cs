@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exo_Monoply.Enums
+namespace Exo_Monopoly.Enums
 {
     internal enum Pions
     {
