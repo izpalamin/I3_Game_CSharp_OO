@@ -14,9 +14,8 @@ namespace Exo_Monoply.Enums
         Chapeau,
         Fer,
         Dino,
-        DéACoudre,
+        DeACoudre,
         Brouette,
         Chaussure
-
     }
 }
